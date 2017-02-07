@@ -1,0 +1,6 @@
+{
+	"width_resize": 400,
+	"delta_thresh": 40,
+	"min_area": 75,
+	"kernel_size": 11
+}
