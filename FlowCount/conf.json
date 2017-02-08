@@ -1,5 +1,5 @@
 {
-	"width_resize": 400,
+	"width_resize": 600,
 	"delta_thresh": 40,
 	"min_area": 75,
 	"kernel_size": 11
